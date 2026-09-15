@@ -1,4 +1,4 @@
-# 📌 Day 1 — Array Basic Operations
+# Day 1 — Array Basic Operations
 
 Today I started my **DSA Pattern-Based Challenge** with the fundamentals of **Arrays**.
 
@@ -8,7 +8,7 @@ Before moving into advanced problem-solving patterns, I’m first understanding 
 
 ## 1. Access Array Elements
 
-### 📖 Definition
+### Definition
 
 Array elements can be accessed using their **index**.
 
@@ -27,7 +27,7 @@ So:
 * `arr[3]` → `12`
 * `arr[4]` → `16`
 
-### 💻 Example
+### Example
 
 ```java
 class Hi {
@@ -48,11 +48,11 @@ class Hi {
 
 ## 2. Update Array Elements
 
-### 📖 Definition
+### Definition
 
 An array element can be updated by accessing its index and assigning a **new value** using the assignment operator `=`.
 
-### 💻 Example
+### Example
 
 ```java
 class hii {
@@ -78,13 +78,13 @@ class hii {
 
 ## 3. Traverse an Array
 
-### 📖 Definition
+### Definition
 
 **Array traversal** means visiting each element of an array one by one.
 
 In Java, a `for` loop can be used to traverse an array from index `0` to `arr.length - 1`.
 
-### 💻 Example
+### Example
 
 ```java
 class hi {
@@ -110,13 +110,13 @@ class hi {
 
 ## 4. Find the Size of an Array
 
-### 📖 Definition
+### Definition
 
 The **size of an array** represents the number of elements present in the array.
 
 In Java, the built-in `length` property is used to find the size of an array.
 
-### 💻 Example
+### Example
 
 ```java
 class hi {
@@ -137,7 +137,7 @@ Size of array: 5
 
 ---
 
-# 🧩 Practice Problems
+# Practice Problems
 
 After understanding the basic operations, I practiced the following problems.
 
@@ -145,13 +145,13 @@ After understanding the basic operations, I practiced the following problems.
 
 ## 5. Insert Element
 
-### 📖 Definition
+### Definition
 
 **Insertion** means adding a new element at a particular position in an array.
 
 When an element is inserted at a specific index, the existing elements may need to be shifted to make space for the new element.
 
-### 🧩 Practice Problem
+### Practice Problem
 
 **GFG — Array Insert at Index**
 
@@ -163,13 +163,13 @@ When an element is inserted at a specific index, the existing elements may need 
 
 ## 6. Delete Element
 
-### 📖 Definition
+### Definition
 
 **Deletion** means removing an element from an array.
 
 When an element is deleted, the remaining elements may need to be shifted to maintain the order of the array.
 
-### 🧩 Practice Problem
+### Practice Problem
 
 **GFG — Delete Array Elements Which Are Smaller Than Next or Become Smaller**
 
@@ -181,13 +181,13 @@ When an element is deleted, the remaining elements may need to be shifted to mai
 
 ## 7. Search Element
 
-### 📖 Definition
+### Definition
 
 **Searching** means finding whether a particular element exists in an array and determining its position if it is present.
 
 For an unsorted array, a simple approach is to check the elements one by one.
 
-### 🧩 Practice Problem
+### Practice Problem
 
 **GFG — Search an Element in an Array**
 
@@ -199,13 +199,13 @@ For an unsorted array, a simple approach is to check the elements one by one.
 
 ## 8. Find Minimum and Maximum Element
 
-### 📖 Definition
+### Definition
 
 Finding the **minimum and maximum** means identifying the smallest and largest elements present in an array.
 
 A simple approach is to traverse the array while maintaining the current minimum and maximum values.
 
-### 🧩 Practice Problem
+### Practice Problem
 
 **GFG — Find Minimum and Maximum Element in an Array**
 
@@ -217,7 +217,7 @@ A simple approach is to traverse the array while maintaining the current minimum
 
 ## 9. Reverse an Array
 
-### 📖 Definition
+### Definition
 
 **Reversing an array** means changing the order of its elements so that the last element becomes the first and the first element becomes the last.
 
@@ -231,7 +231,7 @@ After:
 [16, 12, 8, 4, 2]
 ```
 
-### 🧩 Practice Problem
+### Practice Problem
 
 **GFG — Reverse an Array**
 
